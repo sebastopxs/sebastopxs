@@ -1,74 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">Científico de la Computación & Hardware Enthusiast ⚙️</h3>
-
+<h1 align="center">Hi 👋, I'm Sebastian <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sebastopxs&label=Profile%20views&color=00f0ff&style=flat" alt="sebastopxs views" />
+  <a href="https://github.com/sebastopxs"><img src="https://readme-typing-svg.herokuapp.com?lines=Computacion+Cientifica;Hardware+Enthusiast;C%2B%2B+%7C+IA+%7C+Algoritmos;Desarrollo+Nativo&center=true&width=500&height=50"></a>
 </p>
 
----
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none;">
-      <h3>🕵️‍♂️ Sobre mí</h3>
-      <ul>
-        <li>🎓 Soy estudiante de <b>Computación Científica</b> en la <a href="https://unmsm.edu.pe">Universidad Nacional Mayor de San Marcos</a>.</li>
-        <li>⚙️ Me apasiona utilizar el desarrollo de software y la <b>IA</b> como solución para el diagnóstico de hardware.</li>
-        <li>💻 Estoy trasladando mi capacidad de análisis de componentes físicos hacia la creación de algoritmos estructurados y eficientes.</li>
-        <li>🔧 Mi especialidad técnica radica en el ensamblaje, testeo y optimización de componentes (Procesadores, RAM, M.2 SSD).</li>
-        <li>🤓 Siempre explorando nuevas fronteras tecnológicas y optimizando código.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <!-- Animación GIF de un desarrollador (puedes cambiar la URL por otra si deseas) -->
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avater.gif" width="80%" alt="Developer Animation"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3>💻 Proyecto Actual Destacado</h3>
-
-> **🤖 Sistema Experto para Diagnóstico de Hardware (IA)**  
-> * **Tecnología:** Motor de inferencia nativo basado en *Forward Chaining*.  
-> * **Misión:** Identificar fallas críticas de arranque reduciendo tiempos de diagnóstico y evitando el reemplazo innecesario de componentes físicos mediante reglas lógicas de inteligencia artificial.  
-> * **Enfoque:** Código autónomo, limpio y sin dependencias externas pesadas.
-
----
-
-<h3>🛠️ Stack Tecnológico y Herramientas</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-<h3>📈 Mis Estadísticas en GitHub</h3>
+<h3 align="center">Traduciendo la intuición técnica en algoritmos estructurados ⚙️</h3>
 
 <p align="center">
-  <!-- Tarjetas dinámicas de GitHub que se actualizan solas (Tema Dark/Neon) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastopxs&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastopxs&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  Soy estudiante de <b>Computación Científica en la UNMSM</b>, enfocado en la convergencia entre la arquitectura de hardware de alto rendimiento y el desarrollo de software inteligente.
 </p>
 
----
+### 🚀 &nbsp;Proyecto Actual Destacado
+**Sistema Experto de Diagnóstico de Hardware (IA)**
+* **Core:** Motor de inferencia nativo construido en C++ utilizando *Forward Chaining*.
+* **Objetivo:** Identificar fallas críticas de arranque reduciendo tiempos de diagnóstico y evitando el reemplazo innecesario de componentes físicos mediante reglas lógicas.
+* **Arquitectura:** Código autónomo, limpio y sin dependencias externas pesadas, diseñado para operar directamente con la lógica de la máquina.
 
-<h3 align="center">🤝 Conecta conmigo y explora mi trabajo</h3>
+### 🛠 &nbsp;Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=ED8B00)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![Hardware](https://img.shields.io/badge/-Hardware_Testing-05122A?style=flat&logo=amd&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://shrcomputacioncientifica.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Bitácora_Científica-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"/>
-  </a>
-  <a href="mailto:tu_correo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://github.com/sebastopxs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastopxs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebastopxs&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sebastopxs"><img alt="Sebastian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sebastopxs&custom_title=Sebastian's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://shrcomputacioncientifica.blogspot.com"><img src="https://img.shields.io/badge/Mi_Bitácora_Científica-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+<a href="mailto:tu_correo_aqui@gmail.com"><img src="https://img.shields.io/badge/Contáctame-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tu-usuario-aqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
